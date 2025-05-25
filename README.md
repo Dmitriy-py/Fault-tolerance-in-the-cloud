@@ -166,4 +166,16 @@ output "external_ip_address_vm-1" {
 
 ```
 
+![Снимок экрана (1079)](https://github.com/user-attachments/assets/fef57c4a-fc7e-47e2-bf91-f1a86b413cda)
+
+![Снимок экрана (1081)](https://github.com/user-attachments/assets/2c26bdf4-dbab-4be6-ac30-66657d4b5fd8)
+
+![Снимок экрана (1082)](https://github.com/user-attachments/assets/9081e0f6-28d5-46c0-a2a8-b159e3ada3e5)
+
+![Снимок экрана (1083)](https://github.com/user-attachments/assets/7bc71a42-d99d-4487-bff6-f2e9048aaf39)
+
+![Снимок экрана (1084)](https://github.com/user-attachments/assets/2f7af615-a32b-4ff7-bdc5-6ddb8b53d204)
+
+
+
 
